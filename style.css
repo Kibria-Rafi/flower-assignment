@@ -120,8 +120,40 @@ margin-left: 220px;
     display: flex;
     gap: 20px;
     margin-left: 180px;
+    margin-bottom: 0px;
 }
 .img5{
     width: 270px;
     height: 300px;
 }
+.input-file{
+    background-image:url("Rectangle\ 9.png") ;
+    margin-left: 180px;
+    margin-right: 185px;
+    padding: 50px;
+    margin-top: 100px;
+    text-align: center;
+}
+.headline0{
+    font-size: 40px;
+}
+.des5{
+   text-align: center;
+   color: rgba(39, 39, 39, 0.60);
+   font-family: 'Open Sans', sans-serif;
+
+}
+#em{
+    padding: 10px 120px;
+    border-radius: 5px;
+    border: 0px;
+
+}
+.sub{
+    padding: 10px 22px;
+    border-radius: 5px;
+    border: 0px;
+    background: #E55473;
+    color: #fff;
+}
+
