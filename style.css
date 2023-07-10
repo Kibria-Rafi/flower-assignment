@@ -43,6 +43,7 @@ margin-bottom: 0px;
     border-radius: 5px;
     border: 0px;
     background: #E55473;
+    color: #fff;
 }
 /* main related style */
 .hed{
@@ -59,6 +60,13 @@ margin-bottom: 0px;
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 7px;
+}
+    .dess2{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        color: rgba(39, 39, 39, 0.60);
+        margin-top: 0;
 }
 .delevary{
     display: flex;
@@ -114,6 +122,7 @@ margin-left: 220px;
     background: #E55473;
     margin-left: 300px;
     margin-top: 25px;
+    color: #fff;
 }
 /* 4 image style */
 .image4{
@@ -131,22 +140,33 @@ margin-left: 220px;
     margin-left: 180px;
     margin-right: 185px;
     padding: 50px;
+    padding-bottom: 90px;
     margin-top: 100px;
     text-align: center;
+    border-radius: 8px;
+    margin-bottom: 0px;
+
 }
 .headline0{
     font-size: 40px;
+    margin-bottom: 0px;
 }
 .des5{
    text-align: center;
    color: rgba(39, 39, 39, 0.60);
    font-family: 'Open Sans', sans-serif;
+   margin-top: 15px;
+   margin-bottom: 15px;
 
 }
 #em{
-    padding: 10px 120px;
+    padding-top: 10px;
+    padding-right: 180px;
+    padding-bottom: 10px;
+    padding-left: 10px;
     border-radius: 5px;
     border: 0px;
+    margin-top: 0px;
 
 }
 .sub{
@@ -156,4 +176,37 @@ margin-left: 220px;
     background: #E55473;
     color: #fff;
 }
-
+/* foot style */
+.foot{
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+    padding: 150px;
+    text-align: center;
+    margin-top: 150px;
+}
+.namee{
+    color: #fff;
+    font-size: 48px;
+}
+.copyy{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 200px;
+}
+.des6{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+.des7{
+        color: rgba(255, 255, 255, 0.90);
+        font-size: 14px;
+        margin-top: 7px;
+        margin-bottom: 50px;
+}
