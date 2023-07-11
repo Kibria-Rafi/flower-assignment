@@ -67,7 +67,81 @@ margin-bottom: 0px;
         font-size: 18px;
         color: rgba(39, 39, 39, 0.60);
         margin-top: 0;
+        margin-bottom: 100px;
 }
+/* featured releted style */
+
+.featured{
+    display: flex;
+    gap: 60px;
+    text-align: center;
+    
+    padding-top: 50px;
+    margin-top: 0px;
+    margin-left: 180px;
+
+
+}
+
+.ful1{
+    width: 250px;
+    height: 310px;
+    padding: 30px; 
+    margin-top: 50px;
+
+
+}
+.ful2{
+    width: 250px;
+    height: 290px;
+    padding: 30px; 
+    margin-top: 50px; 
+    margin-left: 30px; 
+    
+
+
+}
+.ful3{
+    width: 250px;
+    height: 350px;
+    padding: 30px; 
+    margin-top: 10px;  
+
+
+}
+.ful-style{
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 340px;
+    height: 390px;
+}
+.ful-style2{
+    background: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 340px;
+    height: 390px;
+}
+.ful-style3{
+    background: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    width: 340px;
+    height: 390px;
+}
+.und{
+    display: flex;
+    gap: 200px;
+    text-align: center;
+    margin-left: 200px;
+    font-family: 'Open Sans', sans-serif;
+    color: #272727;
+    
+}
+.underline{
+    padding-left: 80px;
+    
+}
+/* delevary */
+
 .delevary{
     display: flex;
     gap: 150px;
@@ -210,3 +284,5 @@ margin-left: 220px;
         margin-top: 7px;
         margin-bottom: 50px;
 }
+
+/* border radious 300px 300px 0px 0px */
