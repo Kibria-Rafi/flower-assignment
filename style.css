@@ -1,5 +1,32 @@
 /* header releted style */
+.headd{
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    background: rgba(5, 151, 160, 0.15);
+    margin: 0px;
+    border-radius: 5px;
+    padding: 0px;
 
+}
+.head-img{
+    height: 55px;
+    width: 55px;
+    margin-left: 60px;
+}
+.rafi{
+    display: flex;
+    gap: 70px;
+    margin-left: 750px;
+    text-align: center;
+}
+.blog3{
+    padding: 2px 20px;
+    margin: 15px;
+    border-radius: 5px;
+    border: 0px;
+    background: #E55473;
+    color: #fff;
+}
 .main-line{
     background: rgba(229, 84, 115, 0.1);
     margin: 0px;
